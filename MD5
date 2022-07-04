@@ -1,12 +1,13 @@
-1336c6dcbd8718b877c47f63605140b8 *DESCRIPTION
-081a71fa353dc259c59e5e49a91fceca *NAMESPACE
-5d4afe621a2bc9ebd176980f7fe0b4b6 *NEWS.md
+0fbb18ccbf0167fd917220ed0d89c695 *DESCRIPTION
+e6eb05180b881d873ab936f48576b5c4 *NAMESPACE
+81bcf9297c30861e613a77ed6cede429 *NEWS.md
 4c2a1a26a5aeb9da5e8b47581130a4dc *R/RcppExports.R
 e54ff7f9c3fcd47fd365ebcbb57974fe *R/VMDecomp.R
 5cf7ce7e05bab03cf46d85a6c0b6088d *R/data.R
 14a2202c2d84395ae4bbd5db8412029c *R/elapsed_time.R
+098bd91710568e15a85e41c92fc43cbe *R/estimate_K.R
 db48b933caaf5be350931843881b4332 *R/vmdr.R
-a0cd5a63525b8d390bb88370531bcc2c *README.md
+0d192e8348a7ba3dd24100b01de00be0 *README.md
 c7c5620573fe97671d7772200d13e967 *build/vignette.rds
 b6dc602fb64f955825d9ab558b6b6188 *data/arrhythmia.rda
 9ca0bb428a53359ffa9b4b6365811a38 *inst/CITATION
@@ -32,6 +33,7 @@ d9e8fc97619a65faf69472182fb0329f *inst/doc/variatonal_mode_decomposition.html
 678ed1aee4ee22abd21b47e8f7f32a29 *inst/include/VMDheader.h
 58c8e69b8a08c6c72c22718bb6b7821b *man/arrhythmia.Rd
 07369c40f8dde7bc1768b3f8255f7380 *man/compute_elapsed_time.Rd
+bf7e7222da5ab368882d4f24c87348f0 *man/estimate_k_modes.Rd
 2e70e2d1a0017df6de7b0f95c412170b *man/inner_elapsed_time.Rd
 5bbff765fc01052f57153c26e2f9dd1f *man/vmd.Rd
 3ee2f7a0f1ce47a7ffa828b09c87a558 *src/Makevars
@@ -41,6 +43,7 @@ c81c7c5c5be04d7718b4f63bea48249e *src/init.c
 c1026d38f1c364d0fe33f6286626cf23 *src/vmd.cpp
 0edc12c2147df31cfbc44c689e0686f4 *tests/testthat.R
 e2f2500a0917b7cfe50cf9f3a3c35e12 *tests/testthat/setup.R
+67b10d641ecfd1b4340a7781ba3357c1 *tests/testthat/test-estimate_K.R
 99e5097a9c26e0acbbc08b7399006698 *tests/testthat/test-vmd.R
 906ab3853933bef70b9fbeba2e2ac734 *vignettes/Imf_multiplot.jpeg
 48b579d22581d6f746e7b3bf1f281e48 *vignettes/multiplot_2D.png
