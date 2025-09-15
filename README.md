@@ -154,7 +154,7 @@ docker run -d --name rstudio_dev -e USER=rstudio -e PASSWORD=give_here_your_pass
 
 <br>
 
-The **USER** defaults to *rstudio* but you have to give your **PASSWORD** of preference (see [www.rocker-project.org](https://www.rocker-project.org/) for more information).
+The **USER** defaults to *rstudio* but you have to give your **PASSWORD** of preference (see [rocker-project.org](https://rocker-project.org/) for more information).
 
 <br>
 
@@ -205,8 +205,8 @@ If you use the **VMDecomp** R package in your paper or research please cite both
 @Manual{,
   title = {{VMDecomp}: Variational Mode Decomposition using R},
   author = {Lampros Mouselimis},
-  year = {2022},
-  note = {R package version 1.0.1},
+  year = {2025},
+  note = {R package version 1.0.2},
   url = {https://CRAN.R-project.org/package=VMDecomp},
 }
 ```
